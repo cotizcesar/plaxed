@@ -1,0 +1,41 @@
+﻿.pblock {width:960px; padding:10px; background:#333; float:right; margin-bottom:20px; position:relative; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px; display:block;}
+.pblock .dadeus{width:790px; padding:0px; margin:0px 0px 0px 10px; float:left; display:block;}
+.avatar160{float:left; display:block;}
+.avatar160 img{-webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;}
+
+/* DATOS DE USUARIO*/
+.pblock .dadeus .nodeus{width:auto; font-size:24px; font-weight:bold; margin:5px 0px 0px 0px; color:#f1f1f1;}
+.pblock .dadeus .usuari{font-size:15px; font-style:italic; font-weight:bold; color:#777; display:block;}
+.pblock .dadeus .etdeus{margin:10px 5px 0px 0px; display:block;}
+.pblock .dadeus .etdeus a{color:#fff; background:#444; padding:3px 5px 3px 5px; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;}
+.pblock .dadeus .etdeus a:hover{color:#fff; background:#0080C1;}
+.pblock .dadeus .ubdeus{font-size:15px; font-style:italic; font-weight:bold; color:#fff; margin:10px 5px 0px 0px; display:block;}
+.pblock .dadeus .ubdeus img{margin:0px 5px 0px 0px;}
+.pblock .dadeus .ubdeus .udufon{float:left; display:block;}
+.pblock .dadeus .biodeu{max-width:580px; font-size:13px; font-style:italic; color:#999; margin:32px 5px 0px 0px; display:block;}
+.pblock .dadeus .biodeu a{color:#fff;}
+.pblock .dadeus .biodeu a:hover{text-decoration:underline;}
+/* END DATOS DE USUARIO*/
+
+/* DIV MENU DE USUARIO*/
+.pblock .medeus{position:absolute; right:0px; bottom:0px; display:block;}
+.pblock .medeus a{font-size:16px; font-weight:bold; padding:10px; margin:0px 0px 0px 10px; color:#999; float:left; display:block;}
+.pblock .medeus a:hover{background:#0080C1; color:#fff;}
+.pblock .medeus .conect{color:#fff; background:#5AB275; -webkit-border-bottom-right-radius:3px; -moz-border-radius-bottomright:3px; border-bottom-right-radius:3px;}
+.pblock .medeus .conect:hover{background:#45a563;}
+.pblock .medeus .descon{color:#fff; background:#FF7A7A; -webkit-border-bottom-right-radius:3px; -moz-border-radius-bottomright:3px; border-bottom-right-radius:3px;}
+.pblock .medeus .descon:hover{background:#ff4545;}
+.pblock .medeus .edpeus{background:#444;}
+.pblock .medeus .cancel{color:#fff; background:#FF7A7A; -webkit-border-bottom-right-radius:3px; -moz-border-radius-bottomright:3px; border-bottom-right-radius:3px;}
+.pblock .medeus .cancel:hover{background:#ff4545;}
+/* END DIV MENU DE USUARIO*/
+
+/* DIV ESTADISTICAS DE USUARIO*/
+.pblock .esdeus{position:absolute; right:0px; top:0px; display:block;}
+.pblock .esdeus .botpos{font-size:14px; font-weight:bold; padding:23px 10px 10px 10px; margin:0px; color:#999; float:right; display:block;}
+.pblock .esdeus .botpos:hover{background:#0080C1; color:#fff;}
+.pblock .esdeus .botcon{font-size:14px; font-weight:bold; padding:23px 10px 10px 10px; margin:0px; color:#999; float:right; display:block;}
+.pblock .esdeus .botcon:hover{background:#0080C1; color:#fff;}
+.pblock .esdeus .botpun{font-size:14px; font-weight:bold; padding:23px 10px 10px 10px; margin:0px; color:#5AB275; float:right; display:block;}
+.pblock .esdeus .botpun:hover{background:#0080C1; color:#fff;}
+/* END DIV ESTADISTICAS DE USUARIO*/

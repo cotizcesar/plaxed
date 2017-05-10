@@ -1,0 +1,194 @@
+body{
+    font-family: Arial;
+    font-size: 11px;
+    color:#2B2222;
+}
+form{
+    margin: 0px;
+    padding: 0px;
+}
+
+#id-contenido{
+    border:0;
+    width:700px;
+    margin:0 auto;
+}
+#id-contenido header h1,h2{
+    margin:0;
+}
+#id-contenido header h1{
+    color:#807B7B;
+    font-family:Verdana;
+    font-size: 30px;
+}
+#id-contenido header h2{
+    color:#792323;
+    font-family:Verdana;
+    font-size: 20px;
+}
+#id-contenido header hgroup{
+    text-align: center;
+}
+#div-navegacion{
+    margin-top: 10px;
+    border-top:1px solid #DEDBDB;
+    border-bottom:1px solid #DEDBDB;
+    text-align: center;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+#div-navegacion a{
+    margin:0 20px;
+    color:#A03131;
+    text-decoration: none;
+    font-size: 14px;
+}
+#div-navegacion a:hover{
+    color:#1C1C1D;
+    text-decoration: underline;
+}
+#div-section{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#div-section .item{
+    margin:3px;
+    padding: 3px;
+    background-color:#F5F5F5;
+}
+#div-section .item:hover{
+    background-color: #FFFDCC;
+    border-color:#822F2F;
+}
+#div-section .item .titulo{
+    margin-bottom: 3px;
+}
+#div-section .item .titulo a{
+    color:#000;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+}
+#div-section .item .titulo a:hover{
+    color:#4A7C3C;
+}
+#div-section .item .usuario a{
+    font-size: 11px;
+    color:#506BB7;
+    text-decoration: none
+}
+#div-section .item .descripcion p{
+    font-style: italic;
+}
+#div-tools{
+    text-align: right;
+}
+#div-tools a{
+    text-decoration:none;
+    color:#1C1C1D;
+    font-size: 13px;
+    font-weight: bold;
+}
+#div-tools a:hover{
+    text-decoration: underline;
+}
+#div-form{
+    /*border:1px dotted #373737;*/
+    width: 580px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #D6D6D6;
+}
+#div-form label{
+    display: block;
+    font-family: Tahoma;
+    font-size: 14px;
+    font-style:italic;  
+    font-weight: bold; 
+}
+#div-form .form-cuerpo input,textarea{
+    font-family: Tahoma;
+    font-size: 14px;
+    font-style:italic;
+    border:0;
+    border-bottom: 1px solid #6D6D6D;
+    width: 580px;
+}
+#div-form p.submit{
+    text-align: center;
+}
+.actividad{
+    
+}
+.actividad .titulo{
+    background-color:#678195;
+    padding: 3px;
+    color:#FFF;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+}
+.actividad .descripcion{
+    color:#1C1C1C;
+    padding:5px;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+.actividad .cabecera{
+    color:#1C1C1C;
+    padding:5px;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+}
+.actividad .pie{
+    color:#1C1C1C;
+    padding:5px;
+    font-size: 12px;
+    font-style: italic;
+    text-align: right;
+}
+
+#div-form-comentario{
+    width: 580px;
+    margin: 20px auto 0 auto;
+    padding: 10px;
+    background-color: #D6D6D6;
+}
+#div-form-comentario label{
+    display: block;
+    font-family: Tahoma;
+    font-size: 14px;
+    font-style:italic;  
+    font-weight: bold; 
+}
+#div-form-comentario .form-cuerpo input,textarea{
+    font-family: Tahoma;
+    font-size: 14px;
+    font-style:italic;
+    border:0;
+    border-bottom: 1px solid #6D6D6D;
+    width: 580px;
+}
+#div-form-comentario p.submit{
+    text-align: center;
+}
+
+.foro{}
+.foro .comentario{
+    padding: 2px 10px;
+}
+.foro .comentario .pie{
+    text-align: right;
+}
+.foro .comentario p{
+    margin-top:2px;
+    margin-bottom:2px;
+    font-style: italic;
+}
+.cfondo1{
+    background-color: #D2D2D2;
+}
